@@ -29,7 +29,7 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background(0);
+  background("red");
   ground.display();
   paperBall.display();
   ds1.display();
